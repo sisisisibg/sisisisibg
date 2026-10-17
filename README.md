@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**sisisisibg/sisisisibg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! Soy Pablo 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Desarrollador Frontend en formación</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  💻 Me interesa el desarrollo web y la creación de experiencias digitales.
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🌱 Actualmente estoy aprendiendo desarrollo frontend.
+- 💻 Trabajo con HTML y CSS.
+- 🚀 Me gusta crear páginas web modernas y adaptables.
+- 🎯 Busco seguir aprendiendo, desarrollar proyectos y ganar experiencia.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Mis proyectos
+
+### GAMER SHOP
+Tienda online dedicada a productos tecnológicos.
+
+### MUDELIN
+Sitio web para una empresa de muebles.
+
+---
+
+## 📫 Contacto
+
+- 📧 Correo: pablo.e.games10@gmail.com
+- 💬 Discord: sisisisibg
+
+---
+
+<p align="center">
+  ¡Gracias por visitar mi perfil!
+</p>
