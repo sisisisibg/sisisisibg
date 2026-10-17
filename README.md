@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hola! Soy Pablo 👋</h1>
 
-<h3 align="center">Desarrollador Frontend en formación</h3>
+<h3 align="center">Desarrollador Frontend</h3>
 
 <p align="center">
   💻 Me interesa el desarrollo web y la creación de experiencias digitales.
@@ -13,7 +13,7 @@
 
 - 🌱 Actualmente estoy aprendiendo desarrollo frontend.
 - 💻 Trabajo con HTML y CSS.
-- 🚀 Me gusta crear páginas web modernas y adaptables.
+- 🚀 Creo páginas web modernas y adaptables.
 - 🎯 Busco seguir aprendiendo, desarrollar proyectos y ganar experiencia.
 
 ---
@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,github,acode" />
+  <img src="https://skillicons.dev/icons?i=html,css,github" />
 </p>
 
 ---
@@ -44,5 +44,5 @@ Sitio web para una empresa de muebles.
 ---
 
 <p align="center">
-  ¡Gracias por visitar mi perfil!
+  ¡Gracias por ver mi portafolio!
 </p>
