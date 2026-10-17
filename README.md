@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,,,github,acode" />
+  <img src="https://skillicons.dev/icons?i=html,css,github,acode" />
 </p>
 
 ---
